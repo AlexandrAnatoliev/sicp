@@ -6,3 +6,4 @@
 * [1.1.4 Составные процедуры](compound-procedures.el)
 * [1.1.5 Подстановочная модель применения процедуры](substitution-model.el)
 * [1.1.6 Условные выражения и предикаты](conditional-expressions-and-predicates.el)
+* [1.1.7 Пример: вычисление квадратного корня методом Ньютона](example-1.el)
