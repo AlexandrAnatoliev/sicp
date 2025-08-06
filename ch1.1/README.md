@@ -5,3 +5,4 @@
 * [1.1.3 Вычисление комбинаций](evaluation-of-combinations.el)
 * [1.1.4 Составные процедуры](compound-procedures.el)
 * [1.1.5 Подстановочная модель применения процедуры](substitution-model.el)
+* [1.1.6 Условные выражения и предикаты](conditional-expressions-and-predicates.el)
